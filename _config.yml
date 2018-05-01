@@ -16,14 +16,14 @@
 # in the templates via {{ site.myvariable  }}.
 
 name: Neil Moon
-title: GSOC Devlog
+title: GSOC Devlog for Server Facade
 description: Tracking progress on The GSoC project for improving the Terasology Server Facade
 
 gh_name: Inei1
-gh_commits: https://www.github.com/MovingBlocks/ServerFacade/commits/?author=Inei1
-gh_prs: https://github.com/MovingBlocks/ServerFacade/pulls?utf8=%E2%9C%93&q=is:pr+author:Inei1
-gh_issues: https://github.com/MovingBlocks/ServerFacade/issues?utf8=%E2%9C%93&q=is:issue+author:Inei1
-gh_project: https://www.github.com/MovingBlocks/ServerFacade
+gh_commits: https://www.github.com/MovingBlocks/FacadeServer/commits/?author=Inei1
+gh_prs: https://github.com/MovingBlocks/FacadeServer/pulls?utf8=%E2%9C%93&q=is:pr+author:Inei1
+gh_issues: https://github.com/MovingBlocks/FacadeServer/issues?utf8=%E2%9C%93&q=is:issue+author:Inei1
+gh_project: https://www.github.com/MovingBlocks/FacadeServer
 
 # -------------------------------------
 # Build Settings
